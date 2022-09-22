@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to right, rgb(20, 147, 220), rgb(17, 54, 71));
+}
+
+#BPT {
+    font-family: EB Garamond;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+.navbar {
+    height: 80px;
+}
+
+.navbar-item {
+    font-size: 30px;
+}
+
+table {
+    width: 1840px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
